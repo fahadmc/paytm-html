@@ -1,0 +1,88 @@
+.nav{
+    background-color:white;
+    display:flex;
+    justify-content:space-between;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* gap: 100px; */
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 1px 1px 15px .5px  gray;
+}
+body{
+    margin: 0;
+}
+.main-body{
+background-color:rgb(240, 237, 237);
+
+}
+.button{
+    background-color: rgb(119, 200, 224);
+    /* width: 150px; */
+    font-size: medium;
+    display: flex ;
+    align-items: center;
+    border-radius: 20px;
+    justify-content:space-between;
+    gap: 4px;
+    padding: 0;
+    padding-left: 20px;
+    color: white;
+    margin: 10px;
+    border: none;
+}
+
+.button2{
+    background-color:rgb(89, 66, 66);
+    color: white;
+    border-radius: 20px;
+    /* padding: 10px; */
+    display: flex;
+    gap: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    font-size: 15px;
+}
+.div1{
+    padding-top: 80px;
+    padding-left: 100px;
+  
+}
+.parent{
+    /* background-color:rgb(208, 204, 204); */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* justify-content:space-around; */
+
+}
+.div2{
+   /* background-color: red; */
+   /* padding-right: 500px;
+   padding-bottom: 300px; */
+   margin-top: 120px;
+   margin-bottom: 50px;
+  
+}
+.text{
+    /* background-color: red; */
+}
+.p1{
+    font-size: 60px;
+}
+.p2{
+    font-size: 60px;
+    padding-top: 0px;
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
